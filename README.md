@@ -21,8 +21,8 @@ All credit for the app itself goes to [William Venner](https://github.com/Willia
 ## Other things
 
 - **Fiesta FFA** (WIP) — a Garry's Mod gamemode built on Halo's Fiesta rules: everyone gets a randomized loadout on every respawn, with extra goodies included too. Lua, still in progress. Alpha soon? 
-- **[ESP-Explorer-AE](https://github.com/DeisDev/ESP-Explorer-AE)** — data-driven F4SE plugin browser for Fallout 4 Anniversary Edition. View plugins, add items, spawn NPCs, teleport. Supports mods, Creation Club, and DLCs.
-- **[NextbotCreator](https://github.com/DeisDev/NextbotCreator)** — Rust tool that takes most of the pain out of making Garry's Mod nextbots.
+- **[ESP-Explorer-AE](https://github.com/DeisDev/ESP-Explorer-AE)** — data-driven F4SE plugin browser for Fallout 4 Anniversary Edition. View plugins, add items, spawn NPCs, teleport. Supports mods, Creation Club, and DLCs. · [Nexus](https://www.nexusmods.com/fallout4/mods/102223)
+- **[NextbotCreator](https://github.com/DeisDev/NextbotCreator)** — Rust tool that takes most of the pain out of making Garry's Mod nextbots. · [Latest release](https://github.com/DeisDev/NextbotCreator/releases/latest)
 
 ## Tools
 
