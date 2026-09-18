@@ -1,4 +1,4 @@
-# cat sniffer
+# DeisDev aka cat sniffer (my evil persona)
 
 I mod games — mostly Garry's Mod, Fallout 4, and Minecraft. I write code sometimes too. I also spend a lot of time messing with LLMs.
 
