@@ -30,6 +30,7 @@ All credit for the app itself goes to [William Venner](https://github.com/Willia
 
 ## Find me
 
+- [Website](https://dev.deis.me)
 - Email: [dev@deis.me](mailto:dev@deis.me)
 - Discord: `@catsniffur`
 - Steam: [cat sniffer](https://steamcommunity.com/id/catsniffermeow)
