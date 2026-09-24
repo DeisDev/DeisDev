@@ -1,6 +1,6 @@
 # DeisDev aka cat sniffer (my evil persona)
 
-I mod games. Mostly Garry's Mod, Fallout 4, and Minecraft. I write code sometimes too. I also spend a lot of time messing with LLMs, (mostly experiments, nothing worth sharing).
+I mod games. Sometimes I be coding too. 
 
 ## Tools
 
