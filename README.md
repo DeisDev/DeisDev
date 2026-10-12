@@ -12,4 +12,4 @@ I mod games. Sometimes I be coding too.
 - Email: [dev@deis.me](mailto:dev@deis.me)
 - Discord: `@catsniffur`
 - Steam: [cat sniffer](https://steamcommunity.com/id/catsniffermeow)
-
+- Give Me Money: [buymeacoffee](https://buymeacoffee.com/DeisDev)
